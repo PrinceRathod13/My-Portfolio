@@ -1,0 +1,38 @@
+{
+    "personalInfo": {
+      "name": "John Doe",
+      "title": "Computer Science Student",
+      "email": "john@example.com",
+      "phone": "+1 234 567 8900",
+      "location": "New York, USA",
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://linkedin.com/in/johndoe"
+    },
+    "summary": "Computer Science student passionate about web development. Looking for internship opportunities.",
+    "skills": ["JavaScript", "React", "Node.js", "Python", "HTML/CSS"],
+    "education": [
+      {
+        "degree": "B.Sc Computer Science",
+        "institution": "University Name",
+        "year": "2022-2026",
+        "gpa": "3.8/4.0"
+      }
+    ],
+    "experience": [
+      {
+        "title": "Web Developer Intern",
+        "company": "Tech Company",
+        "period": "Summer 2024",
+        "description": "Developed web applications using React"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Portfolio Website",
+        "description": "My personal portfolio website",
+        "technologies": ["React", "CSS"],
+        "github": "https://github.com/username/project"
+      }
+    ],
+    "certificates": ["JavaScript Certificate - freeCodeCamp"]
+  }
